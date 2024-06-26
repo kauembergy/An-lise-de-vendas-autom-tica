@@ -15,6 +15,11 @@ Esta análise pode se adaptadar para diferentes objetivos e diferentes cliente
 - Análise de Produtos por Loja: Implementar análises detalhadas sobre quais produtos cada loja vende.
 - Ticket Médio: Adicionar cálculo do ticket médio (faturamento dividido pela quantidade de produtos vendidos).
 - Envio Automático de Relatórios: Configurar o envio automático dos relatórios por e-mail.
+
+## Informações importantes
+Veja todas as planilhas de excel que estão no diretório. A planilha vendas é a primeira planilha, sem a análise feita, as outras planilhas são referentes a cada análise feita,
+cada uma está nomeada de acordo com o que foi feito
+
 # Contato
 
 - Email: Kauembergy@gmail.com
